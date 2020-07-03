@@ -1,0 +1,4 @@
+  applications:
+  - name: Surya-Suchak
+    random-route: true
+    memory: 256M
